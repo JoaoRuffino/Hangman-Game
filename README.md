@@ -5,10 +5,10 @@ Project made using
 - 📘 HTML5
 - 📗 CSS
 
-##Tips for playing:
+## Tips for playing:
 - ⚠️ In custom mode, enter the word in capital letters;
 - ⚠️ If you want to know the word, just access the browser console
 - 📢 The game is in Portuguese
 
-##To acess the project:
+## To acess the project:
 
