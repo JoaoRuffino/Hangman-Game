@@ -11,4 +11,4 @@ Project made using
 - 📢 The game is in Portuguese
 
 ## To acess the project:
-
+https://joaoruffino.github.io/Hangman-Game/
