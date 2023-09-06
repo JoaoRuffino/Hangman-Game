@@ -1,4 +1,4 @@
-# Hangman-Game
+# Hangman-Game - Version 1.0
 A Hangman Game for you and your friends.
 Project made using
 - 📙 JavaScript
